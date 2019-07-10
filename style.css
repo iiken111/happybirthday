@@ -80,6 +80,8 @@ section {
 }
 .arq {
     border-radius: 50%;
+    width: 30%;
+    height: auto;
 }
 
 /* @media screen and (min-width:869px) {
