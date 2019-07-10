@@ -10,6 +10,7 @@ main {
     background-image: url(./img/bg1.jpg);
     color: #222;
     line-height: 6rem;
+    padding-bottom: 100px;
 }
 
 h1 {
@@ -35,8 +36,15 @@ h2 {
     color: #d24670;
     text-align: left;
 }
+section {
+    padding-left:8vw;
+    padding-right: 8vw;
+}
 .icon-container {
     margin-top: 40px;
+    border-bottom: 2px solid #222;
+}
+.border {
     border-bottom: 2px solid #222;
 }
 .icon-img img {
@@ -47,4 +55,7 @@ h2 {
 }
 .tt-container {
     margin-top: 40px;
+}
+.tt {
+    margin-bottom: 40px;
 }
