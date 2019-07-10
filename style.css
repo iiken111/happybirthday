@@ -19,7 +19,9 @@ h1 {
 h2 {
     font-size: 9vw;
 }
-
+.birth {
+    padding-right: 8vw;
+}
 .birth img {
     width: 100vw;
     height: auto;
@@ -42,7 +44,7 @@ section {
     padding-right: 8vw;
 }
 .icon-container {
-    margin-top: 40px;
+    margin-top: 70px;
     border-bottom: 2px solid #222;
 }
 .border {
@@ -55,13 +57,24 @@ section {
     width: 70vw;
 }
 .tt-container {
-    margin-top: 40px;
+    margin-top: 70px;
+
 }
 .tt {
-    margin-bottom: 40px;
+    margin-bottom: 80px;
+    padding-bottom: 80px;
 }
 .footer-img img {
     overflow: hidden;
     width: 70vw;
     height: auto;
+}
+.arrow {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #fff;
+    padding-top: 100px;
+}
+.love {
+    margin-top: 700px;
 }
