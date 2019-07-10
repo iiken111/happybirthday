@@ -78,3 +78,17 @@ section {
 .love {
     margin-top: 900px;
 }
+.arq {
+    border-radius: 50%;
+}
+
+/* @media screen and (min-width:869px) {
+    main {
+        line-height: 15rem;
+    }
+    h1{
+        font-size: 5vw;
+        line-height: 10rem;
+    }
+    h2
+} */
